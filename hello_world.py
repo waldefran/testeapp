@@ -1,0 +1,1 @@
+print('Hello world no Docker, dentro do IDX')
