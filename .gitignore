@@ -5,3 +5,5 @@ __pycache__/
 htmlcov/
 .ipynb_checkpoints/
 *.log
+.venv
+.vscode
