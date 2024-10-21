@@ -1,2 +1,3 @@
-#!/bin/sh
-python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt && pre-commit install;
+#!/bin/bash
+docker-compose -f docker-compose.yaml up --build
+
